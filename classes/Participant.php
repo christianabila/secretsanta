@@ -1,6 +1,6 @@
 <?php
 
-namespace ChristianAbila\SecretSanta;
+namespace SecretSanta;
 
 class Participant
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace ChristianAbila\SecretSanta;
+namespace SecretSanta;
 
 use PHPUnit\Framework\TestCase;
 
 /**
- * @coversDefaultClass \Christianabila\SecretSanta\SecretSanta
+ * @coversDefaultClass \SecretSanta\SecretSanta
  */
 class SecretSantaTest extends TestCase
 {
