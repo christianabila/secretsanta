@@ -1,6 +1,6 @@
 <?php
 
-namespace ChristianAbila\SecretSanta;
+namespace SecretSanta;
 
 /**
  * The Secret Santa thingy.

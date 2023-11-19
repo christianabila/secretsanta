@@ -2,8 +2,8 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-use ChristianAbila\SecretSanta\Participant;
-use ChristianAbila\SecretSanta\SecretSanta;
+use SecretSanta\Participant;
+use SecretSanta\SecretSanta;
 
 $anna = new Participant(firstName: 'Anna', mail: 'anna@example.com');
 $ben = new Participant(firstName: 'Ben', lastName: 'Askrin', mail: 'ben@example.com');
